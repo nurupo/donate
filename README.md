@@ -1,10 +1,14 @@
 # Donate
 
-All my open source work is unpaid volunteer work done in my free time, so please consider donating if you find my work useful.
+If you find my open-source work useful, please consider supporting me.
 
-I don't receive donations often and appreciate any donation I receive, no matter how small.
+All of my projects are a labor of love, an unpaid volunteer work done in my spare time.
 
-For example, during a 3 year period from January 1st 2021 to January 1st 2024, I received just 3 donations, totaling $18 USD.
+I don't receive donations often and appreciate every donation I receive, no matter how small.
+
+Just to give a perspective, during the 3 year period from 2021 to 2024, I received a total of 3 donations, totaling $18 USD.
+This might come as a surprise, as some of my projects have over 200,000 downloads, but the reality is that barely anyone donates.
+However, when someone does donate, it always brightens my day :)
 
 ## Ways to donate
 
@@ -16,7 +20,7 @@ For example, during a 3 year period from January 1st 2021 to January 1st 2024, I
 
 - PayPal
   - Pros:
-    - No PayPal account required, allows to donate with just a debit or a credit card
+    - No PayPal account required; allows to donate with just a debit or a credit card
     - Allows to donate using a PayPal account, if you do have one
     - Allows to select which of my projects the donation is for
     - Allows to leave a short text note along with the donation
@@ -34,7 +38,7 @@ For example, during a 3 year period from January 1st 2021 to January 1st 2024, I
     - I receive the donation only after my GitHub Sponsors balance reaches $100 USD
 </details>
 
-I prefer PayPal and Bitcoin, as I receive the donations from them immediately.
+I prefer PayPal and Bitcoin over GitHub Sponsors, as I receive the donations from them immediately.
 However, feel free to donate using any method that is convenient to you, any donation is better than no donation.
 
-If you have read thus far -- thank you for considering making a donation!
+If you have read thus far -- thank you for considering supporting me!
