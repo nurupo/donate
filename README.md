@@ -12,22 +12,11 @@ However, when someone does donate, it always brightens my day :)
 
 ## Ways to donate
 
-- [PayPal](https://www.paypal.com/donate?hosted_button_id=9HJHAH5UDL3GL)
 - [GitHub Sponsors](https://github.com/sponsors/nurupo)
+- [PayPal](https://www.paypal.com/donate?hosted_button_id=9HJHAH5UDL3GL)
 - Bitcoin: `34qxFsZjs1ZWVBwer11gXiycpv7QHTA8q3`
 
 <details><summary>Show pros and cons</summary>
-
-- PayPal
-  - Pros:
-    - No PayPal account required; allows to donate with just a debit or a credit card
-    - Allows to donate using a PayPal account, if you do have one
-    - Allows to select which of my projects the donation is for
-    - Allows to leave a short text note along with the donation
-    - Shows the fee PayPal would take out of your donation and allows you to cover it
-    - I receive the donation immediately
-  - Cons:
-    - Takes a fee (it shows what the fee is when setting the donation amount)
 
 - GitHub Sponsors
   - Pros:
@@ -35,10 +24,21 @@ However, when someone does donate, it always brightens my day :)
   - Cons:
     - Requires a GitHub account in order to donate
     - Takes a big 6% fee if the donation is done from an organization GitHub account
-    - I receive the donation only after my GitHub Sponsors balance reaches $100 USD
+    - I receive the donation in 1-3 months
+
+- PayPal
+  - Pros:
+    - No PayPal account required; allows to donate with just a debit or a credit card
+    - Allows to donate using a PayPal account, if you do have one
+    - Allows to select which of my projects the donation is for
+    - Allows to leave a short text note along with the donation
+    - Shows the fee PayPal will take out of your donation and allows you to cover it
+    - I receive the donation immediately
+  - Cons:
+    - Takes a fee (it shows what the fee is when setting the donation amount)
 </details>
 
-I prefer PayPal and Bitcoin over GitHub Sponsors, as I receive the donations from them immediately.
+I prefer GitHub Sponsors as there is no fee -- I receive the donation in full.
 However, feel free to donate using any method that is convenient to you, any donation is better than no donation.
 
 If you have read thus far -- thank you for considering supporting me!
